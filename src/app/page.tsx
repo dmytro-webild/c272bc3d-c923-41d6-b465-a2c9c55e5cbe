@@ -251,14 +251,14 @@ export default function LandingPage() {
         <ContactCenter
           tag="Ready to Win?"
           title="Your Next Customer Is Searching Online Right Now."
-          description="Don't let them find your competitor. Launch your luxury website and start converting customers today. Limited availability for new projects. Email us at luxorasites.build@gmail.com to get started."
+          description="Don't let them find your competitor. Launch your luxury website and start converting customers today. Limited availability for new projects. Email us at Luxorasites.build@gmail.com to get started."
           background={{ variant: "rotated-rays-animated" }}
           useInvertedBackground={true}
           inputPlaceholder="your@email.com"
           buttonText="Start My Website"
           termsText="We'll contact you within 24 hours to discuss your project. No spam, just premium web solutions."
           onSubmit={(email: string) => {
-            // Send email to luxorasites.build@gmail.com
+            // Send email to Luxorasites.build@gmail.com
             fetch('/api/contact', {
               method: 'POST',
               headers: {
