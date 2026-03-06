@@ -251,7 +251,7 @@ export default function LandingPage() {
         <ContactCenter
           tag="Ready to Win?"
           title="Your Next Customer Is Searching Online Right Now."
-          description="Don't let them find your competitor. Launch your luxury website and start converting customers today. Limited availability for new projects."
+          description="Don't let them find your competitor. Launch your luxury website and start converting customers today. Limited availability for new projects. Call us at 479-326-0852 to get started."
           background={{ variant: "rotated-rays-animated" }}
           useInvertedBackground={true}
           inputPlaceholder="your@email.com"
