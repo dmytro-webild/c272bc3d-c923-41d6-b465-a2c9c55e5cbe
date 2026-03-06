@@ -52,15 +52,15 @@ export default function LandingPage() {
           testimonials={[
             {
               name: "Marcus Johnson",              handle: "Owner, Elite Plumbing",              testimonial: "Went from no website to booking calls daily. Luxora Sites transformed my business overnight.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg"
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg?_wi=1"
             },
             {
               name: "Sarah Chen",              handle: "Restaurant Owner",              testimonial: "My restaurant's online visibility increased 300% in the first month. Absolutely worth it.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/asian-attractive-female-cafe-staff-wear-uniform-apron-smiling-cheerful-welcome-cafe-reataurant-with-confident-happiness-with-positive-service-mind-after-lockdown-is-shopfront-entrance_609648-62.jpg"
+              imageSrc: "http://img.b2bpic.net/free-photo/asian-attractive-female-cafe-staff-wear-uniform-apron-smiling-cheerful-welcome-cafe-reataurant-with-confident-happiness-with-positive-service-mind-after-lockdown-is-shopfront-entrance_609648-62.jpg?_wi=1"
             },
             {
               name: "David Williams",              handle: "Contractor, Williams & Co",              testimonial: "Finally have a professional online presence. Clients now find me before my competitors.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1652.jpg"
+              imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1652.jpg?_wi=1"
             }
           ]}
           testimonialRotationInterval={5000}
@@ -178,15 +178,15 @@ export default function LandingPage() {
           testimonials={[
             {
               id: "1",              name: "Marcus Johnson",              handle: "Owner, Elite Plumbing Services",              testimonial: "I didn't think a website would make that much difference. I was wrong. Within 30 days, I went from zero online presence to booking 5+ calls per week from my website alone. The investment paid for itself immediately.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg"
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg?_wi=2"
             },
             {
               id: "2",              name: "Sarah Chen",              handle: "Restaurant Owner, Chen's Kitchen",              testimonial: "My restaurant finally looks as premium as our food. The website brought in a completely new customer base. Local searches now lead to us instead of competitors. Best decision for my business.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/asian-attractive-female-cafe-staff-wear-uniform-apron-smiling-cheerful-welcome-cafe-reataurant-with-confident-happiness-with-positive-service-mind-after-lockdown-is-shopfront-entrance_609648-62.jpg"
+              imageSrc: "http://img.b2bpic.net/free-photo/asian-attractive-female-cafe-staff-wear-uniform-apron-smiling-cheerful-welcome-cafe-reataurant-with-confident-happiness-with-positive-service-mind-after-lockdown-is-shopfront-entrance_609648-62.jpg?_wi=2"
             },
             {
               id: "3",              name: "David Williams",              handle: "Contractor, Williams & Associates",              testimonial: "No more relying on word-of-mouth. Professional website instantly boosted my credibility with high-value clients. I'm landing bigger projects and getting fewer price-shoppers.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1652.jpg"
+              imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1652.jpg?_wi=2"
             },
             {
               id: "4",              name: "Lisa Rodriguez",              handle: "Salon Owner, Luxe Hair Studio",              testimonial: "The luxury design perfectly matches our brand. Customers comment on how professional the site looks. Bookings increased 250% in the first quarter. Worth every penny.",              rating: 5,
