@@ -264,7 +264,7 @@ export default function LandingPage() {
               headers: {
                 'Content-Type': 'application/json',
               },
-              body: JSON.stringify({ email }),
+              body: JSON.stringify({ email, recipientEmail: 'Luxorasites.build@gmail.com' }),
             }).catch(err => console.error('Error submitting contact form:', err));
           }}
         />
