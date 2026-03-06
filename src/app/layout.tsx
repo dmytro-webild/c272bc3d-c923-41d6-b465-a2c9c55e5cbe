@@ -23,11 +23,14 @@ const interTight = Inter_Tight({
 export const metadata: Metadata = {
   title: "Luxora Sites | Premium Websites for Local Businesses",  description: "Get a stunning, high-converting website designed specifically for local businesses. Luxora Sites builds premium sites that turn visitors into customers.",  keywords: "web design, local business websites, luxury web design, small business website, high-converting websites",  metadataBase: new URL("https://luxorasites.com"),
   alternates: {
-    canonical: "https://luxorasites.com"},
+    canonical: "https://luxorasites.com"
+  },
   openGraph: {
-    title: "Luxora Sites | Premium Websites for Local Businesses",    description: "Premium websites for local businesses that convert. Stop losing customers without an online presence.",    url: "https://luxorasites.com",    siteName: "Luxora Sites",    type: "website"},
+    title: "Luxora Sites | Premium Websites for Local Businesses",    description: "Premium websites for local businesses that convert. Stop losing customers without an online presence.",    url: "https://luxorasites.com",    siteName: "Luxora Sites",    type: "website"
+  },
   twitter: {
-    card: "summary_large_image",    title: "Luxora Sites | Premium Websites for Local Businesses",    description: "Premium websites for local businesses that convert. Stop losing customers without an online presence."},
+    card: "summary_large_image",    title: "Luxora Sites | Premium Websites for Local Businesses",    description: "Premium websites for local businesses that convert. Stop losing customers without an online presence."
+  },
   robots: {
     index: true,
     follow: true,
